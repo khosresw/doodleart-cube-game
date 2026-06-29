@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="120" viewBox="0 0 820 120">
+  <rect x="20" y="52" width="780" height="16" rx="8" fill="#000"/>
+
+  <!-- Left motif -->
+  <ellipse cx="360" cy="60" rx="26" ry="38" fill="#000"/>
+  <ellipse cx="338" cy="60" rx="10" ry="24" fill="#000"/>
+  <ellipse cx="322" cy="60" rx="6" ry="14" fill="#000"/>
+
+  <!-- Right motif -->
+  <ellipse cx="460" cy="60" rx="26" ry="38" fill="#000"/>
+  <ellipse cx="482" cy="60" rx="10" ry="24" fill="#000"/>
+  <ellipse cx="498" cy="60" rx="6" ry="14" fill="#000"/>
+
+  <!-- Center details -->
+  <rect x="405" y="18" width="10" height="28" rx="5" fill="#000"/>
+  <rect x="405" y="74" width="10" height="28" rx="5" fill="#000"/>
+</svg>
