@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80">
+  <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="20" y1="40" x2="180" y2="40"/>
+    <path d="M180 40
+             C210 10 250 10 280 40
+             S350 70 380 40
+             S450 10 480 40
+             S550 70 580 40
+             S650 10 680 40"/>
+    <line x1="680" y1="40" x2="780" y2="40"/>
+  </g>
+</svg>
